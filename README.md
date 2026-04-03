@@ -17,5 +17,5 @@
 We introduce a data-driven controller for adaptive KV-cache quantization to address the KV-cache memory bottleneck in on-device LLM inference, where static quantization often degrades reasoning quality. Our method extracts lightweight token-level signals (e.g., token frequency, attention variance, and entropy-based uncertainty) and uses a learned MLP controller to assign per-token KV precision (2/4/8-bit or FP16) during decoding. This adaptive precision policy reduces KV memory footprint and latency while preserving (or improving) accuracy compared to static KV quantization, rule-based baselines, and FP16 inference.
 
 <div align="center">
-  <img src="overview.jpg" width="90%"/>
+  <img src="Overview.png" width="90%"/>
 </div>
