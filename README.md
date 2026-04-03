@@ -1,7 +1,6 @@
 <div align="center">
-  
-## Don’t Waste Bits!
-## Adaptive KV-Cache Quantization for Lightweight On-Device LLMs
+  <h1>Don’t Waste Bits!</h1>
+  <h3>Adaptive KV-Cache Quantization for Lightweight On-Device LLMs</h3>
   
 [![Paper](https://img.shields.io/badge/Paper-WACV%202026-blue)](https://openaccess.thecvf.com/content/WACV2026W/LLVM-AD/html/Boroujeni_VLA4CoDrive_Vision-Language-Action_Dataset_for_Cooperative_Autonomous_Driving_WACVW_2026_paper.html)
 [![Documentation](https://img.shields.io/badge/Documentation-Available-blue.svg)](https://carla.readthedocs.io/en/latest/start_quickstart/)
